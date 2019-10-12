@@ -1,50 +1,50 @@
-body{
-  margin: 0;
-  padding: 0;
-  background: url(lol.jpg) no-repeat;
-  background-size: cover;
-}
-.box{
-  width: 450px;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 40px;
-  text-align: center;
-  margin: auto;
-  margin-top: 5%;
-  color: white;
-  font-family: 'Century Gothic',sans-serif;
-}
-.box-img{
-  border-radius: 60%;
-  width: 200px;
-  height: 200px;
-}
-.box h1{
-  font-size: 45px;
-  letter-spacing: 4px;
-  font-weight: 100;
-}
-.box h5{
-  font-size: 25px;
-  letter-spacing: 3px;
-  font-weight: 100;
-}
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
-.fa:hover {
-  opacity: 0.7;
-}
+<!DOCTYPE html>
+<html>
+<head>
+	<title> sky silva </title>
+	<link rel="stylesheet" type="text/css" href="sky.css">
 
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-.fa-github {
-  background: #55ACEE;
-  color: white;
-}
+</head>
+<body>
+	<dir class="sky ">
+		
+		<h1> sky  web  </h1>
+		<h2> i am always ready to serve  you !</h2>
+
+	</dir>
+
+	<div class="sk">
+
+		<form  id="sk"method="post" action="">
+
+			<input type="text" name="name" class="sk" placeholder="your name" required=""><br>
+			<input type="email" name="email" class="sk" placeholder="your email" required=""><br>
+			<input type="number" name="phone" class="sk" placeholder="your number" required=""><br>
+
+
+
+			<textarea name="masage" class="sk" placeholder="masage" rows="4"  required=""></textarea><br>
+
+
+
+			<input type="submit" name="submit" class="sk" value="SEND masage">
+
+
+			
+			
+
+			
+
+
+
+		</form>
+		
+
+
+
+
+
+	</div>
+
+</body>
+</html>
